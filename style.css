@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    background-color: white;
+    color: dimgray;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+h1 {
+    color: #1a365d;
+    border-bottom: 3px solid blue;
+    padding-bottom: 10px;
+    margin-bottom: 25px;
+}
+
+h2 {
+    color: blue;
+    margin-top: 0;
+}
+
+.content-block {
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+dfn {
+    font-weight: bold;
+    font-style: normal;
+    color: #2c5282;
+    background-color: white;
+    padding: 2px 6px;
+    border-radius: 4px;
+}
+
+video {
+    width: 300px;
+    height: 200px;
+    display: block;
+    margin-top: 10px;
+    border: 1px solid dimgray;
+    border-radius: 4px;
+    background-color: black;
+}
